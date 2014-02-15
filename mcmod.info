@@ -1,0 +1,19 @@
+[
+{
+"modid": "hedgehog1029-Technomagical",
+"name": "Technomagical",
+"description": "Magic technology. 'Nuff said.",
+"version": "",
+"credits": "Created by hedgehog1029",
+"logoFile": "",
+"mcversion": "1.6.4",
+"url": "",
+"updateUrl": "",
+"authors": [ "hedgehog1029" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
